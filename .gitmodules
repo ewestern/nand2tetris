@@ -1,0 +1,6 @@
+[submodule "vm"]
+	path = vm
+	url = https://github.com/ewestern/n2t_vm.git
+[submodule "assembler"]
+	path = assembler
+	url = https://github.com/ewestern/n2t_assember.git
